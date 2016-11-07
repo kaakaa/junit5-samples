@@ -40,8 +40,8 @@ junitPlatform {
 		// exclude 'custom-engine'
 	}
 	tags {
-		// include 'fast'
-		exclude 'slow'
+		include 'ExtensionSample1'
+		// exclude 'slow'
 	}
 	// includeClassNamePattern '.*Test'
 	// enableStandardTestTask true
